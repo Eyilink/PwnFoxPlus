@@ -28,7 +28,7 @@ This extension is not signed, so it must be loaded as a temporary add-on or via 
 1. Open Firefox and navigate to `about:debugging`
 2. Click **This Firefox**
 3. Click **Load Temporary Add-on...**
-4. Select the `pwnfox-plus.zip` file (or any file inside the unzipped folder)
+4. Select the `pwnfox-plus.zip` file (or any file inside the unzipped folder) or the `manifest.json`
 
 ### Option B — Permanent (requires Firefox ESR / Nightly / Developer Edition)
 
